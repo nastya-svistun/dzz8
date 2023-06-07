@@ -1,0 +1,15 @@
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\bin\Debug\net6.0\dzz8.exe
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\bin\Debug\net6.0\dzz8.deps.json
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\bin\Debug\net6.0\dzz8.runtimeconfig.json
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\bin\Debug\net6.0\dzz8.dll
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\bin\Debug\net6.0\dzz8.pdb
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.csproj.AssemblyReference.cache
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.AssemblyInfoInputs.cache
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.AssemblyInfo.cs
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.csproj.CoreCompileInputs.cache
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.dll
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\refint\dzz8.dll
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.pdb
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\dzz8.genruntimeconfig.cache
+C:\Users\chews\OneDrive\Рабочий стол\C#\dz8\dzz8\obj\Debug\net6.0\ref\dzz8.dll
